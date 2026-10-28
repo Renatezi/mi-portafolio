@@ -36,3 +36,7 @@ git commit -m "Actualiza el README" git push origin main
 
 > Documentar es parte del trabajo, no un extra al final.
 
+
+## Documentación
+
+Consulta la [Guía del proyecto](docs/GUIA.md) para conocer su estructura, los archivos principales y los comandos básicos de uso.
